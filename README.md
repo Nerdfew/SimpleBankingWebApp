@@ -6,4 +6,6 @@ Other than that everything is here for said project my group and I made.
   - The php may be wonky, it was created by me where I learned and implemented the PHP within 2 weeks (no we did not learn PHP before this idk why)
   - There may be some unused files here that you can refer to for styling and implementing new functions and such.
   - "mysqli" file is where most of the functions I wrote are as well as some of the default template ones. 
-  - Hope you enjoy! 
+  - Hope you enjoy!
+
+Link to majestic webapp template: https://www.bootstrapdash.com/product/majestic#product-demo-section
